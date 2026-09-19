@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/ArqamQazi/xreader-appimage)](https://github.com/ArqamQazi/xreader-appimage/releases/latest)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/linuxmint/xreader/master/data/icons/hicolor/scalable/apps/xreader.svg" width="128" alt="XReader Logo" />
+  <img src="https://raw.githubusercontent.com/linuxmint/xreader/master/data/icons/scalable/apps/xreader.svg" width="128" alt="XReader Logo" />
 </p>
 
 | Latest Stable Release | Upstream URL |
