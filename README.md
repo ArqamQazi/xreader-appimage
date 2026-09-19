@@ -18,7 +18,18 @@
 
 ---
 
-Portable Anylinux AppImage for **[XReader](https://github.com/linuxmint/xreader)** (the document viewer from Linux Mint and X-Apps supporting PDF, PostScript, DjVu, TIFF, XPS, and Comic Books).
+### Description
+
+Xreader is a multi-page document viewer. It can display and print documents across a wide variety of formats with a clean, fast, and simple user interface.
+
+Features:
+- **Supported Formats**: PDF, PostScript (PS), Encapsulated PostScript (EPS), DjVu, DVI, XPS, TIFF, and comic book archives (CBZ, CBR, etc.).
+- **Document Navigation**: Sidebar with thumbnails, document index / table of contents, and hypertext navigation.
+- **Search & Text**: In-document text search with match highlighting and text copying to clipboard.
+- **Viewing Modes**: Single-page, dual-page (facing), continuous scrolling, rotation, zoom-to-fit, and full-screen presentation mode.
+- **Bookmarks & Annotations**: Page bookmarking and support for viewing document annotations.
+
+---
 
 AppImage made using [quick-sharun](https://github.com/pkgforge-dev/Anylinux-AppImages/blob/main/useful-tools/quick-sharun.sh), which makes it extremely easy to turn any binary into a portable package reliably without using containers or similar tricks. 
 
