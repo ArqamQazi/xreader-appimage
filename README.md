@@ -1,23 +1,24 @@
 <div align="center">
 
-# TEMPLATE-AppImage 🐧
+# XReader-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/TEMPLATE-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/TEMPLATE-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/TEMPLATE-AppImage)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/ArqamQazi/xreader-appimage/total?logo=github&label=GitHub%20Downloads)](https://github.com/ArqamQazi/xreader-appimage/releases/latest)
+[![CI Build Status](https://github.com/ArqamQazi/xreader-appimage/actions/workflows/appimage.yml/badge.svg)](https://github.com/ArqamQazi/xreader-appimage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/ArqamQazi/xreader-appimage)](https://github.com/ArqamQazi/xreader-appimage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://raw.githubusercontent.com/linuxmint/xreader/master/data/icons/hicolor/scalable/apps/xreader.svg" width="128" alt="XReader Logo" />
 </p>
-
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/Anylinux-AppImages) |
+| [Click here](https://github.com/ArqamQazi/xreader-appimage/releases/latest) | [Click here](https://github.com/linuxmint/xreader) |
 
 </div>
 
 ---
+
+Portable Anylinux AppImage for **[XReader](https://github.com/linuxmint/xreader)** (the document viewer from Linux Mint and X-Apps supporting PDF, PostScript, DjVu, TIFF, XPS, and Comic Books).
 
 AppImage made using [quick-sharun](https://github.com/pkgforge-dev/Anylinux-AppImages/blob/main/useful-tools/quick-sharun.sh), which makes it extremely easy to turn any binary into a portable package reliably without using containers or similar tricks. 
 
@@ -32,7 +33,6 @@ Self-updater is disabled by default if AppImage managers like [am](https://githu
 <details>
   <summary><b><i>raison d'être</i></b></summary>
     <img src="https://github.com/user-attachments/assets/d40067a6-37d2-4784-927c-2c7f7cc6104b" alt="Inspiration Image">
-  </a>
 </details>
 
 ---
